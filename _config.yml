@@ -15,7 +15,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/profile.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -26,12 +26,18 @@ author:
   # twitter:             <username>
 
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
-  - title:             About
-    url:               /about/
+  - title:             About Me
+    url:               /
+  - title:             Events
+    url:               /events/
+  - title:             My Thoughts
+    url:               /thoughts/
+  - title:             Sign Up for Yard Signs
+    url:               /signs/
+  - title:             Contact me
+    url:               /contact/
+  - title:             Helpful Resources
+    url:               /resources/
 
 legal:
   - title:             LICENSE
@@ -214,11 +220,10 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+social:
+  name:                Christina Bastos
+  links:
+    - https://github.com/<username>
 
 
 # Plugin Configs

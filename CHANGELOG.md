@@ -51,7 +51,7 @@ Feb 9 2021
 * Added tooltips to abberavations (`<abbr>` tags), e.g. IIAFE. See [Example Content](/blog/hyde/2012-02-07-example-content/#inline-html-elements){:.flip-title} on how to use them in markdown.
 * Added tooltips to social media icons (inside main column only)
 * Fixed KaTeX font rendering
-* [PRO] Setting `clap_button: false` will hide the clap button preview, even in development
+* [PRO] Setting `` will hide the clap button preview, even in development
 * [PRO] A overscrolling ToC will scroll itself to keep the active element in view.
 
 *[IIAFE]: Instantly Invoked Asynchronous Function Expression

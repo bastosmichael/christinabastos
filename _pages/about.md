@@ -5,16 +5,15 @@ description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
   with a focus on personal sites that are meant to impress.
 hide_description: true
+clap_button: false
 permalink: /
-redirect_from:
-  - /download/
 ---
 
 # About Me
 
-Hello fellow Hutto Hippos! 
+## Hello fellow Hutto Hippos! 
 
-My name is Christina Bastos. I am a homeschooling mother of 4 with a passion for serving our community and neighborhood. As vice chair of the Charter review commission and a Parks Advisory Board member, I have put down roots that I cherish. I absolutely LOVE Hutto and am so excited to run for City Council. With your help, I would love to be a part of the new chapter in Hutto's growth and success. 
+My name is Christina, I am a homeschooling mother of 4 with a passion for serving our community and neighborhood. As vice chair of the Charter review commission and a Parks Advisory Board member, I have put down roots that I cherish. I absolutely LOVE Hutto and am so excited to run for City Council. With your help, I would love to be a part of the new chapter in Hutto's growth and success. 
 
 Hutto has certainly had some growing pains but I truly believe that a slow and steady pace for future development will allow Hutto to become a force to be reckoned with! 
 
@@ -26,5 +25,4 @@ Hutto is primed for a huge comeback. With new leadership and a more transparent 
 
 I am available to anyone who has suggestions, questions or insight. I want only to serve as a voice for you.
 
-Thank you and God bless!
-Christina Bastos
+### Thank you and God bless!
