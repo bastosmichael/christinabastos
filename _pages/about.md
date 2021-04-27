@@ -1,12 +1,16 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
+image: 
+  path: /assets/img/family.jpg
+accent_image: 
+  background: url('/assets/img/family2.jpg') center/cover
+  # overlay: false
 description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
   with a focus on personal sites that are meant to impress.
 hide_description: true
 clap_button: false
-permalink: /
+permalink: /about/
 ---
 
 # About Me

@@ -26,26 +26,18 @@ author:
   # twitter:             <username>
 
 menu:
-  - title:             About Me
+  - title:             My Thoughts
     url:               /
+  - title:             About Me
+    url:               /about/
   - title:             Events
     url:               /events/
-  - title:             My Thoughts
-    url:               /thoughts/
   - title:             Sign Up for Yard Signs
     url:               /signs/
   - title:             Contact me
     url:               /contact/
   - title:             Helpful Resources
     url:               /resources/
-
-legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
 
 copyright:             © 2021. All rights reserved.
 
