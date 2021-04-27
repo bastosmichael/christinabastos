@@ -11,7 +11,7 @@ clap_button: false
 permalink: /events/
 ---
 
-# Events to meet with Me
+# Events I'll be Attending
 
 Hutto Early Voting and Elections happen at the Wilco Hutto Annex building at 321 Ed Schmidt Boulevard, Suite 100, 78634
 
