@@ -1,10 +1,10 @@
 ---
-layout: about
+layout: post
 image: 
   path: /assets/img/family.jpg
 accent_image: 
   background: url('/assets/img/family2.jpg') center/cover
-  # overlay: false
+  overlay: false
 description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
   with a focus on personal sites that are meant to impress.
@@ -13,9 +13,7 @@ clap_button: false
 permalink: /about/
 ---
 
-# About Me
-
-## Hello fellow Hutto Hippos! 
+Hello fellow Hutto Hippos! 
 
 My name is Christina, I am a homeschooling mother of 4 with a passion for serving our community and neighborhood. As vice chair of the Charter review commission and a Parks Advisory Board member, I have put down roots that I cherish. I absolutely LOVE Hutto and am so excited to run for City Council. With your help, I would love to be a part of the new chapter in Hutto's growth and success. 
 

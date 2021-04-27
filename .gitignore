@@ -52,3 +52,5 @@ _zip
 
 /assets/js/*hydejack-*
 /_sass/*/__*__/*
+
+_jekyll_s3.yml

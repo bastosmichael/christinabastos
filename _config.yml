@@ -175,6 +175,8 @@ include:
 # ----------------------------------------------------------------------------------------
 
 plugins:
+  - jekyll-analytics
+  - jekyll-paginate
   - jekyll-default-layout
   - jekyll-feed
   - jekyll-optional-front-matter
@@ -273,3 +275,8 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-4772504-2        # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
